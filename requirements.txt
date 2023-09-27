@@ -1,0 +1,6 @@
+wxPython
+PyOpenGL
+opencv-python
+keyboard
+pyrr
+serial
